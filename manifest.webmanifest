@@ -1,0 +1,14 @@
+{
+  "name": "Chopi AI",
+  "short_name": "Chopi AI",
+  "description": "Chopi AI trading chart analysis interface",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030d08",
+  "theme_color": "#030d08",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
